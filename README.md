@@ -114,7 +114,7 @@ This project is under active development, and we encourage contributions from ou
 
 
 
-Many thanks to the outstanding contributors to the Cloud Posse contents. We appreciate your hard work and dedication to building scalable enterprise grade solutions.
+Many thanks to the outstanding contributors to the ITisOpen contents. We appreciate your hard work and dedication to building scalable enterprise grade solutions.
 
 <a href="https://github.com/itisopen/github-action-auto-release/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=itisopen/github-action-auto-release&max=24" />
@@ -144,7 +144,7 @@ Dropped straight into your Inbox every week — and usually a 5-minute read.
 <!--
 ### 📆 Office Hours <a href="https://itisopen.net/office-hours?utm_source=github&utm_medium=readme&utm_campaign=itisopen/github-action-auto-release&utm_content=office_hours"><img src="https://img.itisopen.net/fit-in/200x200/https://itisopen.net/wp-content/uploads/2019/08/Powered-by-Zoom.png" align="right" /></a>
 
-[Join us every Wednesday via Zoom](https://itisopen.net/office-hours?utm_source=github&utm_medium=readme&utm_campaign=itisopen/github-action-auto-release&utm_content=office_hours) for your weekly dose of insider DevOps trends, AWS news and Terraform insights, all sourced from our SweetOps community, plus a _live Q&A_ that you can’t find anywhere else.
+[Join us every Wednesday via Zoom](https://itisopen.net/office-hours?utm_source=github&utm_medium=readme&utm_campaign=itisopen/github-action-auto-release&utm_content=office_hours) for your weekly dose of insider DevOps trends, AWS news and Terraform insights, all sourced from our ITisOpen community, plus a _live Q&A_ that you can’t find anywhere else.
 It's **FREE** for everyone!
 -->
 ## License
