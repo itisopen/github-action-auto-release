@@ -56,7 +56,6 @@ Here's a real world example:
 
 
 
-
 <!-- markdownlint-disable -->
 
 ## Inputs
@@ -186,8 +185,8 @@ All other trademarks referenced herein are the property of their respective owne
 
 ## Copyrights
 
-Copyright © 2022-2025 [Cloud Posse, LLC](https://cloudposse.com), all rights reserved for upstream content
-Copyright © 2025-2025 [ITisOpen](https://itisopen.net), all rights reserved for repository-specific content
+- Copyright © 2022-2025 [Cloud Posse, LLC](https://cloudposse.com), all rights reserved for upstream content
+- Copyright © 2025-2025 [ITisOpen](https://itisopen.net), all rights reserved for repository-specific content
 
 
 <a href="https://itisopen.net/readme/footer/link?utm_source=github&utm_medium=readme&utm_campaign=itisopen/github-action-auto-release&utm_content=readme_footer_link"><img alt="README footer" src="https://itisopen.net/readme/footer/img"/></a>
